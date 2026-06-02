@@ -1,12 +1,12 @@
 {
-  "name": "your name",
+  "name": "TEAM-SHADOW-MD",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created To automate tasks",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name your name",
+    "start": "pm2 start index.js --deep-monitoring --attach --name TEAM-SHADOW-MD",
     "stop": "pm2 stop your name",
-    "restart": "pm2 restart your name"
+    "restart": "pm2 restart TEAM-SHADOW-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
