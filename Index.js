@@ -67,10 +67,10 @@ const {
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('your name connected to whatsapp ✅')
+  console.log('TEAM-SHADOW-MD connected to whatsapp ✅')
   
   let up =`╔═════════════════╗
-  ║      TEAM-SHADOW           
+  ║      TEAM-SHADOW-MD         
   ║  SUCCESSFULLY CONNECTED ✅ 😍        
   ╠═════════════════╣
   ║      • PREFIX: .            
