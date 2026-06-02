@@ -19,7 +19,7 @@ const {
   const { File } = require('megajs')
   const prefix = '.'
   
-  const ownerNumber = ['923237045919']
+  const ownerNumber = ['923022012664']
   
   //===================SESSION-AUTH============================
   if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -70,22 +70,22 @@ const {
   console.log('your name connected to whatsapp ✅')
   
   let up =`╔═════════════════╗
-  ║      your name           
+  ║      TEAM-SHADOW           
   ║  SUCCESSFULLY CONNECTED ✅ 😍        
   ╠═════════════════╣
   ║      • PREFIX: .            
   ╟─────────────────╢
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊         
-  ║ https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306              
+  ║ https://whatsapp.com/channel/0029Vb7LqmY59PwPm2fkI92u             
   ╟─────────────────╢
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐋𝐈𝐍𝐊          
-  ║ https://wa.me/message/VRZ5QLDAHXKSF1                 
+  ║ https://wa.me/message/923022012664                
   ╠═════════════════╣
-  ║      your name               
-  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ your name       
+  ║      ATIF X ASAD               
+  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ TEAM-SHADOW      
   ╚═════════════════╝
 `;
-  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
+  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.postimg.cc/vHDhd0Qz/20260602-125906.jpg` }, caption: up })
   
   }
   })
@@ -181,7 +181,7 @@ const {
 
 //owner react
 
-if(senderNumber.includes("923237045919")){
+if(senderNumber.includes("923022012664")){
   if(isReact)return;
   m.react("🔓");  }
 
@@ -219,7 +219,7 @@ if (!isReact && senderNumber === botNumber) {
   })
   }
   app.get("/", (req, res) => {
-  res.send("hey, Arslan-Ultra-MD started✅");
+  res.send("hey, TEAM-SHADOW-MD started✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
